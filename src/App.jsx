@@ -29,7 +29,7 @@ const App=() =>{
  return (
   <>
  
-  <h2>welcom my baby</h2>
+  <h2>welcom my to the real</h2>
    <Card title="Star war"/>
   <Card title="Avater"/>
   <Card title="The lion King"/>
